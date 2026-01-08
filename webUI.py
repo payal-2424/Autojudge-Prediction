@@ -128,8 +128,6 @@ with st.sidebar:
 
     st.markdown("---")
     st.header("👤 Developer")
-    st.write("**Name:** Payal")
-    st.write("**Enrollment:** 23113107")
 
 # ================================
 # MAIN UI
@@ -200,3 +198,4 @@ st.markdown(
     "<p style='text-align:center;color:gray;'>AutoJudge | Streamlit ML Project</p>",
     unsafe_allow_html=True
 )
+
