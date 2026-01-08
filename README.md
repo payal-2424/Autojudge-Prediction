@@ -104,7 +104,9 @@ AutoJudge/
 ⚠️ The trained .pkl model files are large in size and exceed GitHub upload limits.
 
  Model Download Link-  
+ 
  autojudge_regressor- https://drive.google.com/file/d/1ujg0OeA28QuTh5mz8Xxa2wLaX003gfFF/view?usp=sharing
+ 
  autojudge_classifier- https://drive.google.com/file/d/1VGEwBeaKgoAf3X1uXr9TACSRv_ONUx-p/view?usp=sharing
 
 
@@ -115,6 +117,7 @@ Extract the files
 Place them in the same directory as app.py
 
 ▶️ How to Run the Project
+
 1️⃣ Install Dependencies
 pip install -r requirements.txt
 
@@ -142,6 +145,11 @@ The regression model is trained on original difficulty scores (no normalization 
 Model files are loaded dynamically during runtime
 
 Designed for academic submission and deployment
+
+## Demo Video-
+
+https://drive.google.com/file/d/1-nUX7xDxA6GzfLmjtViyUEgek34Refsl/view?usp=sharing
+
 
 # Conclusion
 
